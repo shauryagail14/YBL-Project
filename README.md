@@ -7,8 +7,6 @@
 
 A modern desktop application for grocery inventory management with expiration tracking, stock monitoring, and reporting features built with Python and Tkinter.
 
-![Dashboard Screenshot](screenshots/dashboard.png)
-
 ## ✨ Features
 
 ### 📊 Dashboard
@@ -33,12 +31,3 @@ A modern desktop application for grocery inventory management with expiration tr
 ### Prerequisites
 - Python 3.7+
 - Tkinter (usually included with Python)
-
-### Quick Start
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/freshmart-inventory.git
-cd freshmart-inventory
-
-# Run the application
-python fixed_grocery_inventory_gui_fixed.py
